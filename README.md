@@ -1,9 +1,9 @@
 # Moodscape
 Final project for mobile programming course
 List of technologies used:
-	React Native
-	React Native UUID
-	React native phone call
+React Native
+React Native UUID
+React native phone call
 	React Native Maps
 	React Native Community Date Picker
 	React Native Community slider
