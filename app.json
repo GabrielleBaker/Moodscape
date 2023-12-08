@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "moodscape_project",
+    "slug": "moodscape_project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
