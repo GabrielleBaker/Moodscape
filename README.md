@@ -1,6 +1,7 @@
 # Moodscape
 Final project for mobile programming course
 See a preview of the finished app: https://www.youtube.com/watch?v=sNKVWTlsRRg
+
 List of technologies used:
 React Native
 React Native UUID
